@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\appuk\\source\\repos\\we\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|c:\\users\\appuk\\source\\repos\\we\\we\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|solutionrelative:we\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|c:\\users\\appuk\\source\\repos\\we\\we\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|solutionrelative:we\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|c:\\users\\appuk\\source\\repos\\we\\we\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63553A8-BB12-4453-835B-38425E70CBD7}|we\\we.csproj|solutionrelative:we\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\we\\we\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "we\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\we\\we\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "we\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T12:33:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\we\\we\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "we\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\we\\we\\wwwroot\\index.html",
+              "RelativeToolTip": "we\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-14T12:32:58.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\appuk\\source\\repos\\we\\we\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "we\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\appuk\\source\\repos\\we\\we\\Pages\\Weather.razor",
+              "RelativeToolTip": "we\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T12:25:02.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
